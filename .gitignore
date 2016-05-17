@@ -24,4 +24,4 @@ UserInterfaceState.xcuserstate
 Carthage/
 
 # Resource files
-*.csv
+RealmTranslator/*.csv
