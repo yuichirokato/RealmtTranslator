@@ -14,6 +14,23 @@
 		899024141CEA015100B38D92 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 899024121CEA015100B38D92 /* LaunchScreen.storyboard */; };
 		8990241F1CEA015100B38D92 /* RealmTranslatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8990241E1CEA015100B38D92 /* RealmTranslatorTests.swift */; };
 		8990242A1CEA015100B38D92 /* RealmTranslatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 899024291CEA015100B38D92 /* RealmTranslatorUITests.swift */; };
+		8990243C1CEAE5E600B38D92 /* CSwiftV.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 899024391CEAE5E600B38D92 /* CSwiftV.framework */; };
+		8990243D1CEAE5E600B38D92 /* Realm.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8990243A1CEAE5E600B38D92 /* Realm.framework */; };
+		8990243E1CEAE5E600B38D92 /* RealmSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8990243B1CEAE5E600B38D92 /* RealmSwift.framework */; };
+		899024401CEAE61300B38D92 /* WordRealmModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8990243F1CEAE61300B38D92 /* WordRealmModel.swift */; };
+		899024431CEAE64000B38D92 /* SentenceRealmModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 899024421CEAE64000B38D92 /* SentenceRealmModel.swift */; };
+		899024451CEAE65F00B38D92 /* DialogRealmModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 899024441CEAE65F00B38D92 /* DialogRealmModel.swift */; };
+		899024471CEAE67500B38D92 /* TrackRealmModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 899024461CEAE67500B38D92 /* TrackRealmModel.swift */; };
+		899024491CEAECAB00B38D92 /* CSVWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 899024481CEAECAB00B38D92 /* CSVWrapper.swift */; };
+		8990244B1CEAEF4300B38D92 /* RealmManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8990244A1CEAEF4300B38D92 /* RealmManager.swift */; };
+		899024541CEAFA2D00B38D92 /* dialog_lesson.csv in Resources */ = {isa = PBXBuildFile; fileRef = 8990244C1CEAFA2D00B38D92 /* dialog_lesson.csv */; };
+		899024551CEAFA2D00B38D92 /* dialog.csv in Resources */ = {isa = PBXBuildFile; fileRef = 8990244D1CEAFA2D00B38D92 /* dialog.csv */; };
+		899024561CEAFA2D00B38D92 /* phrase_lesson.csv in Resources */ = {isa = PBXBuildFile; fileRef = 8990244E1CEAFA2D00B38D92 /* phrase_lesson.csv */; };
+		899024571CEAFA2D00B38D92 /* phrase.csv in Resources */ = {isa = PBXBuildFile; fileRef = 8990244F1CEAFA2D00B38D92 /* phrase.csv */; };
+		899024581CEAFA2D00B38D92 /* track_category.csv in Resources */ = {isa = PBXBuildFile; fileRef = 899024501CEAFA2D00B38D92 /* track_category.csv */; };
+		899024591CEAFA2D00B38D92 /* track.csv in Resources */ = {isa = PBXBuildFile; fileRef = 899024511CEAFA2D00B38D92 /* track.csv */; };
+		8990245A1CEAFA2D00B38D92 /* word_lesson.csv in Resources */ = {isa = PBXBuildFile; fileRef = 899024521CEAFA2D00B38D92 /* word_lesson.csv */; };
+		8990245B1CEAFA2D00B38D92 /* word.csv in Resources */ = {isa = PBXBuildFile; fileRef = 899024531CEAFA2D00B38D92 /* word.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +64,23 @@
 		899024251CEA015100B38D92 /* RealmTranslatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RealmTranslatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		899024291CEA015100B38D92 /* RealmTranslatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RealmTranslatorUITests.swift; sourceTree = "<group>"; };
 		8990242B1CEA015100B38D92 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		899024391CEAE5E600B38D92 /* CSwiftV.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CSwiftV.framework; path = Carthage/Build/iOS/CSwiftV.framework; sourceTree = "<group>"; };
+		8990243A1CEAE5E600B38D92 /* Realm.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Realm.framework; path = Carthage/Build/iOS/Realm.framework; sourceTree = "<group>"; };
+		8990243B1CEAE5E600B38D92 /* RealmSwift.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RealmSwift.framework; path = Carthage/Build/iOS/RealmSwift.framework; sourceTree = "<group>"; };
+		8990243F1CEAE61300B38D92 /* WordRealmModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WordRealmModel.swift; sourceTree = "<group>"; };
+		899024421CEAE64000B38D92 /* SentenceRealmModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SentenceRealmModel.swift; sourceTree = "<group>"; };
+		899024441CEAE65F00B38D92 /* DialogRealmModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DialogRealmModel.swift; sourceTree = "<group>"; };
+		899024461CEAE67500B38D92 /* TrackRealmModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TrackRealmModel.swift; sourceTree = "<group>"; };
+		899024481CEAECAB00B38D92 /* CSVWrapper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CSVWrapper.swift; sourceTree = "<group>"; };
+		8990244A1CEAEF4300B38D92 /* RealmManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RealmManager.swift; sourceTree = "<group>"; };
+		8990244C1CEAFA2D00B38D92 /* dialog_lesson.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = dialog_lesson.csv; sourceTree = "<group>"; };
+		8990244D1CEAFA2D00B38D92 /* dialog.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = dialog.csv; sourceTree = "<group>"; };
+		8990244E1CEAFA2D00B38D92 /* phrase_lesson.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = phrase_lesson.csv; sourceTree = "<group>"; };
+		8990244F1CEAFA2D00B38D92 /* phrase.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = phrase.csv; sourceTree = "<group>"; };
+		899024501CEAFA2D00B38D92 /* track_category.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = track_category.csv; sourceTree = "<group>"; };
+		899024511CEAFA2D00B38D92 /* track.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = track.csv; sourceTree = "<group>"; };
+		899024521CEAFA2D00B38D92 /* word_lesson.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = word_lesson.csv; sourceTree = "<group>"; };
+		899024531CEAFA2D00B38D92 /* word.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = word.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +88,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8990243D1CEAE5E600B38D92 /* Realm.framework in Frameworks */,
+				8990243C1CEAE5E600B38D92 /* CSwiftV.framework in Frameworks */,
+				8990243E1CEAE5E600B38D92 /* RealmSwift.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -81,6 +118,7 @@
 				8990241D1CEA015100B38D92 /* RealmTranslatorTests */,
 				899024281CEA015100B38D92 /* RealmTranslatorUITests */,
 				899024071CEA015100B38D92 /* Products */,
+				899024381CEAE5D400B38D92 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -97,12 +135,16 @@
 		899024081CEA015100B38D92 /* RealmTranslator */ = {
 			isa = PBXGroup;
 			children = (
+				8990245C1CEAFA3200B38D92 /* csv */,
+				899024411CEAE62200B38D92 /* realmmodel */,
 				899024091CEA015100B38D92 /* AppDelegate.swift */,
 				8990240B1CEA015100B38D92 /* ViewController.swift */,
 				8990240D1CEA015100B38D92 /* Main.storyboard */,
 				899024101CEA015100B38D92 /* Assets.xcassets */,
 				899024121CEA015100B38D92 /* LaunchScreen.storyboard */,
 				899024151CEA015100B38D92 /* Info.plist */,
+				899024481CEAECAB00B38D92 /* CSVWrapper.swift */,
+				8990244A1CEAEF4300B38D92 /* RealmManager.swift */,
 			);
 			path = RealmTranslator;
 			sourceTree = "<group>";
@@ -125,6 +167,42 @@
 			path = RealmTranslatorUITests;
 			sourceTree = "<group>";
 		};
+		899024381CEAE5D400B38D92 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				899024391CEAE5E600B38D92 /* CSwiftV.framework */,
+				8990243A1CEAE5E600B38D92 /* Realm.framework */,
+				8990243B1CEAE5E600B38D92 /* RealmSwift.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		899024411CEAE62200B38D92 /* realmmodel */ = {
+			isa = PBXGroup;
+			children = (
+				8990243F1CEAE61300B38D92 /* WordRealmModel.swift */,
+				899024421CEAE64000B38D92 /* SentenceRealmModel.swift */,
+				899024441CEAE65F00B38D92 /* DialogRealmModel.swift */,
+				899024461CEAE67500B38D92 /* TrackRealmModel.swift */,
+			);
+			name = realmmodel;
+			sourceTree = "<group>";
+		};
+		8990245C1CEAFA3200B38D92 /* csv */ = {
+			isa = PBXGroup;
+			children = (
+				8990244C1CEAFA2D00B38D92 /* dialog_lesson.csv */,
+				8990244D1CEAFA2D00B38D92 /* dialog.csv */,
+				8990244E1CEAFA2D00B38D92 /* phrase_lesson.csv */,
+				8990244F1CEAFA2D00B38D92 /* phrase.csv */,
+				899024501CEAFA2D00B38D92 /* track_category.csv */,
+				899024511CEAFA2D00B38D92 /* track.csv */,
+				899024521CEAFA2D00B38D92 /* word_lesson.csv */,
+				899024531CEAFA2D00B38D92 /* word.csv */,
+			);
+			name = csv;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -135,6 +213,7 @@
 				899024021CEA015100B38D92 /* Sources */,
 				899024031CEA015100B38D92 /* Frameworks */,
 				899024041CEA015100B38D92 /* Resources */,
+				899024371CEAE34500B38D92 /* Copy Frameworks From Carthage */,
 			);
 			buildRules = (
 			);
@@ -231,7 +310,15 @@
 			files = (
 				899024141CEA015100B38D92 /* LaunchScreen.storyboard in Resources */,
 				899024111CEA015100B38D92 /* Assets.xcassets in Resources */,
+				899024541CEAFA2D00B38D92 /* dialog_lesson.csv in Resources */,
+				8990245B1CEAFA2D00B38D92 /* word.csv in Resources */,
+				899024551CEAFA2D00B38D92 /* dialog.csv in Resources */,
+				8990245A1CEAFA2D00B38D92 /* word_lesson.csv in Resources */,
 				8990240F1CEA015100B38D92 /* Main.storyboard in Resources */,
+				899024571CEAFA2D00B38D92 /* phrase.csv in Resources */,
+				899024581CEAFA2D00B38D92 /* track_category.csv in Resources */,
+				899024561CEAFA2D00B38D92 /* phrase_lesson.csv in Resources */,
+				899024591CEAFA2D00B38D92 /* track.csv in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -251,13 +338,39 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		899024371CEAE34500B38D92 /* Copy Frameworks From Carthage */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"$(SRCROOT)/Carthage/Build/iOS/RealmSwift.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/Realm.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/CSwiftV.framework",
+			);
+			name = "Copy Frameworks From Carthage";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "/usr/local/bin/carthage copy-frameworks";
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		899024021CEA015100B38D92 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				899024401CEAE61300B38D92 /* WordRealmModel.swift in Sources */,
+				8990244B1CEAEF4300B38D92 /* RealmManager.swift in Sources */,
+				899024491CEAECAB00B38D92 /* CSVWrapper.swift in Sources */,
 				8990240C1CEA015100B38D92 /* ViewController.swift in Sources */,
+				899024431CEAE64000B38D92 /* SentenceRealmModel.swift in Sources */,
 				8990240A1CEA015100B38D92 /* AppDelegate.swift in Sources */,
+				899024451CEAE65F00B38D92 /* DialogRealmModel.swift in Sources */,
+				899024471CEAE67500B38D92 /* TrackRealmModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -399,6 +512,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+				);
 				INFOPLIST_FILE = RealmTranslator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.app.yujiro.RealmTranslator;
@@ -410,6 +527,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+				);
 				INFOPLIST_FILE = RealmTranslator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.app.yujiro.RealmTranslator;
@@ -482,6 +603,7 @@
 				899024301CEA015100B38D92 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		899024311CEA015100B38D92 /* Build configuration list for PBXNativeTarget "RealmTranslatorTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +612,7 @@
 				899024331CEA015100B38D92 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		899024341CEA015100B38D92 /* Build configuration list for PBXNativeTarget "RealmTranslatorUITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +621,7 @@
 				899024361CEA015100B38D92 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

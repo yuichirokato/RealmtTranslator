@@ -7,7 +7,22 @@
 //
 
 import UIKit
+import RealmSwift
+import CSwiftV
 
-class CSVWrapper: NSObject {
-
+class CSVWrapper {
+    let csv: CSwiftV
+    
+    init(csvStr: String) {
+        
+//        print("csv string: \(csvStr)")
+        
+        csv = CSwiftV(string: csvStr)
+        
+        print("csv: ", csv.rows)
+    }
+    
+    func createRealmObject<T: CSVConvertible>(object: T) -> [Object] {
+        return csv.rows.map { T().convertFromCSV($0) }
+    }
 }
