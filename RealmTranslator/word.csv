@@ -1,0 +1,401 @@
+id,word,word_japanese,furigana,file_name,lesson_number
+1,east,東,イースト,sound_word_001.mp3,1
+2,year,年,イヤー,sound_word_002.mp3,1
+3,west,西,ウエスト,sound_word_003.mp3,1
+4,Wednesday,水曜日,ウェンズデイ,sound_word_004.mp3,1
+5,April,４月,エイプリル,sound_word_005.mp3,1
+6,August,８月,オーガスト,sound_word_006.mp3,1
+7,October,１０月,オクトーバー,sound_word_007.mp3,1
+8,Thursday,木曜日,サースデイ,sound_word_008.mp3,1
+9,south,南,サウス,sound_word_009.mp3,1
+10,Saturday,土曜日,サタデイ,sound_word_010.mp3,1
+11,Sunday,日曜日,サンデイ,sound_word_011.mp3,1
+12,January,１月,ジェニアリー,sound_word_012.mp3,1
+13,June,６月,ジューン,sound_word_013.mp3,1
+14,July,７月,ジュライ,sound_word_014.mp3,1
+15,September,９月,セプテンバー,sound_word_015.mp3,1
+16,Tuesday,火曜日,チューズデイ,sound_word_016.mp3,1
+17,December,１２月,ディセンバー,sound_word_017.mp3,1
+18,date,日,デート,sound_word_018.mp3,1
+19,north,北,ノース,sound_word_019.mp3,1
+20,November,１１月,ノーベンバー,sound_word_020.mp3,1
+21,February,２月,フェブラリー,sound_word_021.mp3,1
+22,Friday,金曜日,フライデイ,sound_word_022.mp3,1
+23,March,３月,マーチ,sound_word_023.mp3,1
+24,Monday,月曜日,マンデイ,sound_word_024.mp3,1
+25,May,５月,メイ,sound_word_025.mp3,1
+26,outlet,店舗,アウトレット,sound_word_026.mp3,2
+27,international airline,国際線,インターナショナル エアーライン,sound_word_027.mp3,2
+28,weekend,週末、土日,ウィークエンド,sound_word_028.mp3,2
+29,weekday,平日,ウィークデイ,sound_word_029.mp3,2
+30,class of vehicle,車輌クラス,クラス オブ ビークル,sound_word_030.mp3,2
+31,size,大きさ,サイズ,sound_word_031.mp3,2
+32,schedule,予定,スケジュール,sound_word_032.mp3,2
+33,smoking car,喫煙車,スモーキングカー,sound_word_033.mp3,2
+34,term,期間,ターム,sound_word_034.mp3,2
+35,departure,出発,ディパーチャー,sound_word_035.mp3,2
+36,designate,指定する,デジグネイト,sound_word_036.mp3,2
+37,destination,行き先、目的地,デスティネーション,sound_word_037.mp3,2
+38,domestic airline,国内線,ドメスティック エアーライン,sound_word_038.mp3,2
+39,nearest,最寄の,ニアレスト,sound_word_039.mp3,2
+40,non smoking car,禁煙車,ノン スモーキングカー,sound_word_040.mp3,2
+41,passenger,乗員,パッセンジャー,sound_word_041.mp3,2
+42,public holiday,祝日,パブリックホリデー,sound_word_042.mp3,2
+43,vehicle,車両,ビークル,sound_word_043.mp3,2
+44,reservation number,予約番号,リザベーション ナンバー,sound_word_044.mp3,2
+45,return,返却,リターン,sound_word_045.mp3,2
+46,ETC card,ＥＴＣカード,イーティーシー カード,sound_word_046.mp3,3
+47,equipment rental fee,備品レンタル料金,イクウィップメント レンタル フィー,sound_word_047.mp3,3
+48,winter tire,スタッドレスタイヤ,ウインタータイヤ,sound_word_048.mp3,3
+49,weight,体重,ウェイト,sound_word_049.mp3,3
+50,optional equipment,備品,オプショナル イクイップメント,sound_word_050.mp3,3
+51,canopy,幌（ほろ）,キャノピー,sound_word_051.mp3,3
+52,junior seat,ジュニアシート,ジュニアシート,sound_word_052.mp3,3
+53,ski carrier,スキーキャリア,スキーキャリア,sound_word_053.mp3,3
+54,snowboard carrier,スノーボードキャリア,スノーボードキャリアー,sound_word_054.mp3,3
+55,tire chains,タイヤチェーン,タイヤチェーン,sound_word_055.mp3,3
+56,child seat,チャイルドシート,チャイルドシート,sound_word_056.mp3,3
+57,height,身長,ハイト,sound_word_057.mp3,3
+58,fee of riding with pets,ペット同乗料金,フィー オブ ライディング ウィズ ペッツ,sound_word_058.mp3,3
+59,four-wheel drive,四駆,フォーウィール ドライブ,sound_word_059.mp3,3
+60,prepare,準備する,プリペアー,sound_word_060.mp3,3
+61,baby seat,ベビーシート,ベビーシート,sound_word_061.mp3,3
+62,multiple language GPS,多言語ナビ,マルティプル ラングエッジ ジーピーエス,sound_word_062.mp3,3
+63,roof carrier,ルーフキャリア,ルーフキャリアー,sound_word_063.mp3,3
+64,rope,ロープ,ロープ,sound_word_064.mp3,3
+65,ID card “ARMED FORCES OF THE UNITED STATES”,所属基地ＩＤカード,アイディーカード アームド フォースィーズ　オブ ザ ユナイテッド ステイツ,sound_word_065.mp3,4
+66,East Asia Relations Commission,亜東関係協会,イースト アジア リレイションズ コミッション,sound_word_066.mp3,4
+67,expired,期限切れ,イクスパイヤード,sound_word_067.mp3,4
+68,issue,発行する,イシュー,sound_word_068.mp3,4
+69,enunciation,発音,イナンシィエーション,sound_word_069.mp3,4
+70,immigration stamp,入国スタンプ,イミグレーション スタンプ,sound_word_070.mp3,4
+71,international driving permit,国際免許証,インターナショナル ドライビング パーミット,sound_word_071.mp3,4
+72,invalid,無効な,インバリッド,sound_word_072.mp3,4
+73,entry,入国,エントリー,sound_word_073.mp3,4
+74,embassy,大使館,エンバシー,sound_word_074.mp3,4
+75,organization,機関,オーガナイゼーション,sound_word_075.mp3,4
+76,original,原本,オリジナル,sound_word_076.mp3,4
+77,on the same day,即日,オンザ セイムデイ,sound_word_077.mp3,4
+78,category,区分,カテゴリー,sound_word_078.mp3,4
+79,government,政府,ガバメント,sound_word_079.mp3,4
+80,column,列,コラム,sound_word_080.mp3,4
+81,consulate,領事館,コンサレット,sound_word_081.mp3,4
+82,Geneva Convention,ジュネーブ条約,ジニーバ コンベンション,sound_word_082.mp3,5
+83,Japanese translation form,翻訳文,ジャパニーズ トランスレーション フォーム,sound_word_083.mp3,5
+84,Japan Automobile Federation,ＪＡＦ、日本自動車連盟,ジャパン オートモービル フェデレーション,sound_word_084.mp3,5
+85,stamp,押印,スタンプ,sound_word_085.mp3,5
+86,territory,地域,テリトリー,sound_word_086.mp3,5
+87,driving without a license,無免許運転,ドライビング ウィズアウト ア ライセンス,sound_word_087.mp3,5
+88,passport,パスポート,パスポート,sound_word_088.mp3,5
+89,valid,有効な,バリッド,sound_word_089.mp3,5
+90,Vienna Convention,ウィーン条約,ビエナ コンベンション,sound_word_090.mp3,5
+91,branch office,支部,ブランチ オフィス,sound_word_091.mp3,5
+92,basic resident registration system,住民基本台帳,ベーシック レジデント レジストレーション システム,sound_word_092.mp3,5
+93,your country's driver's permit,自国免許証,ユア カントリーズ ドライバーズ パーミット,sound_word_093.mp3,5
+94,US service members in Japan,在日米軍関係者,ユーエス サービスメンバーズ インジャパン,sound_word_094.mp3,5
+95,"US, Forces Japan, operator's permit for civilian vehicle",車両操縦許可書,ユーエス フォーシィーズ ジャパン オペレーターズ　パーミット フォー シビリアン ビークル,sound_word_095.mp3,5
+96,landing,上陸,ランディング,sound_word_096.mp3,5
+97,refuse,断る,リフューズ,sound_word_097.mp3,5
+98,regulation,規則,レギュレーション,sound_word_098.mp3,5
+99,residence card,在留カード,レジデンス カード,sound_word_099.mp3,5
+100,accident report,事故報告書,アクシデント リポート,sound_word_100.mp3,6
+101,arrange,手配する,アレンジ,sound_word_101.mp3,6
+102,an illegal parking　,駐車違反、違法駐車,アンイリーガル パーキング,sound_word_102.mp3,6
+103,illegal parking ticket,駐車違反の確認標章,イリーガル パーキング チケット,sound_word_103.mp3,6
+104,illegal parking penalty,駐車違反違約金,イリーガル パーキング ペナルティ,sound_word_104.mp3,6
+105,inform,知らせる,インフォーム,sound_word_105.mp3,6
+106,extension,延長,エクステンション,sound_word_106.mp3,6
+107,call,呼ぶ,コール,sound_word_107.mp3,6
+108,cost of actually filling up,実際の給油金額,コスト オブ アクチュアリー フィリング アップ,sound_word_108.mp3,6
+109,sign,サイン、署名,サイン,sound_word_109.mp3,6
+110,jurisdiction,管轄,ジャリスディクション,sound_word_110.mp3,6
+111,speeding,スピード違反,スピーディング,sound_word_111.mp3,6
+112,settle privately,示談をする,セトル プライベイトゥリー,sound_word_112.mp3,6
+113,tick a box,ボックスにチェックを入れる,ティック ア ボックス,sound_word_113.mp3,6
+114,delay,遅れる,ディレイ,sound_word_114.mp3,6
+115,duty,義務,デューティー,sound_word_115.mp3,6
+116,toll,通行料,トール,sound_word_116.mp3,6
+117,drowsy driving,居眠り運転,ドラウジー ドライビング,sound_word_117.mp3,7
+118,traffic jam,交通渋滞,トラフィック ジャム,sound_word_118.mp3,7
+119,traffic violation notification,交通反則告知書,トラフィック バイオレーション ノーティフィケーション,sound_word_119.mp3,7
+120,no accident continuation days,無事故継続日数,ノー アクシデント コンティニュエーション デイズ,sound_word_120.mp3,7
+121,here,こちら,ヒアー,sound_word_121.mp3,7
+122,business hours,営業時間,ビジネスアワー,sound_word_122.mp3,7
+123,before returning the vehicle,返却前に,ビフォアー リターニング ザ ビークル,sound_word_123.mp3,7
+124,financial institution,金融機関,フィナンシャル インスティトゥーション,sound_word_124.mp3,7
+125,breakdown,故障,ブレイクダウン,sound_word_125.mp3,7
+126,procedure,手続き,プロシィージャー,sound_word_126.mp3,7
+127,payment notice and receipt with the date of receipt,領収日付のある納付書・領収書,ペイメント ノーティス アンド レシート ウィズ ザ デイト オブ レシート,sound_word_127.mp3,7
+128,minor,未成年,マイナー,sound_word_128.mp3,7
+129,minor accident,軽微な事故,マイナー アクシデント,sound_word_129.mp3,7
+130,lessee,借受人,レシー,sound_word_130.mp3,7
+131,law,法律,ロー,sound_word_131.mp3,7
+132,wrong,間違っている,ロング,sound_word_132.mp3,7
+133,actual expense,実費,アクチュアル エクスペンス,sound_word_133.mp3,8
+134,agreement,約款,アグリーメント,sound_word_134.mp3,8
+135,apply,申し込む,アプライ,sound_word_135.mp3,8
+136,unlimited,無制限,アンリミティッド,sound_word_136.mp3,8
+137,expense,費用,イクスペンス,sound_word_137.mp3,8
+138,include,含む,インクルード,sound_word_138.mp3,8
+139,insurance,保険,インシュアランス,sound_word_139.mp3,8
+140,explain,説明する,エクスプレイン,sound_word_140.mp3,8
+141,odor,におい,オウダー,sound_word_141.mp3,8
+142,current value,時価格,カーレント バリュー,sound_word_142.mp3,8
+143,coverage,補償範囲,カバレッジ,sound_word_143.mp3,8
+144,collision damage waiver fee,免責補償手数料,コリジョン ダメージ ウェーバー フィー,sound_word_144.mp3,8
+145,stain,汚れ,ステイン,sound_word_145.mp3,8
+146,theft,盗難,セフト,sound_word_146.mp3,8
+147,detail,詳細,ディーテイル,sound_word_147.mp3,8
+148,deductible,免責額,ディダクティブル,sound_word_148.mp3,8
+149,towing,レッカー,トウイング,sound_word_149.mp3,9
+150,twenty thousand yen,２万円,トゥウェンティー サウザンド イェン,sound_word_150.mp3,9
+151,personal coverage,対人補償,パーソナル カバレッジ,sound_word_151.mp3,9
+152,burden,負担,バーデン,sound_word_152.mp3,9
+153,by yourself,ご自身で,バイ ユアセルフ,sound_word_153.mp3,9
+154,passenger injury coverage,人身傷害補償,パッセンジャー インジャリー カバレッジ,sound_word_154.mp3,9
+155,vehicle coverage,車両補償,ビークル カバレッジ,sound_word_155.mp3,9
+156,fee of Nissan Anshin Support plan,NAS加入料,フィー オブ ニッサン サポート プラン,sound_word_156.mp3,9
+157,fifty thousand yen,５万円,フィフティー サウザンド イェン,sound_word_157.mp3,9
+158,flat tire,パンク,フラットタイヤ,sound_word_158.mp3,9
+159,property coverage,対物補償,プロパティー カバレッジ,sound_word_159.mp3,9
+160,run-out battery,バッテリー上がり,ランアウト バッテリー,sound_word_160.mp3,9
+161,limit,限界、上限,リミット,sound_word_161.mp3,9
+162,roadside assistance,ロードサービス,ロードサイド アシスタンス,sound_word_162.mp3,9
+163,loss of usage,ノンオペレーションチャージ,ロス オブ ユーセージ,sound_word_163.mp3,9
+164,locking-up,キー閉じ込み,ロッキングアップ,sound_word_164.mp3,9
+165,against a law,違法,アゲインスト ア ロー,sound_word_165.mp3,10
+166,ignoring traffic lights,信号無視,イグノーイング トラフィック ライト,sound_word_166.mp3,10
+167,express way,高速道路・有料道路,エクスプレス ウェイ,sound_word_167.mp3,10
+168,obey,従う,オーベイ,sound_word_168.mp3,10
+169,keep left,左側通行,キープ レフト,sound_word_169.mp3,10
+170,green arrow signals,青矢印信号,グリーン アロー シグナルズ,sound_word_170.mp3,10
+171,The Road Traffic Act,道路交通法,ザ ロード トラフィック アクト,sound_word_171.mp3,10
+172,sixty kilometers per hour,時速６０km,シックスティ キロミーターズ パー アワー,sound_word_172.mp3,10
+173,speed limit,制限速度,スピード リミット,sound_word_173.mp3,10
+174,cell phone,携帯電話,セルフォン,sound_word_174.mp3,10
+175,direction,方向,ダイレクション,sound_word_175.mp3,10
+176,distracted driving,わき見運転,ディストラクティッド ドライビング,sound_word_176.mp3,10
+177,traffic lights,信号,トラフィック ライト,sound_word_177.mp3,10
+178,drunk driving,飲酒運転,ドランク ドライビング,sound_word_178.mp3,10
+179,violation of traffic regulations,交通違反,バイオレーション オブ トラフィック レギュレーション,sound_word_179.mp3,10
+180,height limit,高さ制限,ハイト リミット,sound_word_180.mp3,10
+181,fine,違反金,ファイン,sound_word_181.mp3,10
+182,blinking light,点滅信号,ブリンキング ライト,sound_word_182.mp3,10
+183,prohibit,禁止する,プロヒビット,sound_word_183.mp3,10
+184,railroad,鉄道,レイルロード,sound_word_184.mp3,10
+185,local street,一般道,ローカルストリート,sound_word_185.mp3,10
+186,road sign,道路標識,ロードサイン,sound_word_186.mp3,10
+187,additional charge,追加料金,アディショナル チャージ,sound_word_187.mp3,11
+188,exchange,両替,イクスチェンジ,sound_word_188.mp3,11
+189,expensive,高い,イクスペンシブ,sound_word_189.mp3,11
+190,excess charge,延長料金,エクセス チャージ,sound_word_190.mp3,11
+191,optional fee,オプション料金,オプショナル フィー,sound_word_191.mp3,11
+192,calculate,計算する,カルキュレイト,sound_word_192.mp3,11
+193,cancellation fee,キャンセル料金,キャンセレーション フィー,sound_word_193.mp3,11
+194,seasonal additional fee,ハイシーズン料金,シーズナル アディショナル フィー,sound_word_194.mp3,11
+195,sales tax,消費税,セールス タックス,sound_word_195.mp3,11
+196,tax-free,免税,タックス フリー,sound_word_196.mp3,11
+197,cheap,安い,チープ,sound_word_197.mp3,11
+198,discount,値引き,ディスカウント,sound_word_198.mp3,11
+199,per 1 day,１日につき,パー ワン デイ,sound_word_199.mp3,11
+200,per 1 rental,１貸し出しにつき,パー ワン レンタル,sound_word_200.mp3,11
+201,halfway cancellation fee,中途解約手数料,ハーフウェイ キャンセレーション フィー,sound_word_201.mp3,11
+202,fuel surcharge based on the distance driven,ガソリンキロ換算,フューエル サーチャージ ベイスド オンザ ディスタンス ドリブン,sound_word_202.mp3,11
+203,fuel charge,燃料代,フューエル チャージ,sound_word_203.mp3,11
+204,basic fee,基本料金,ベーシック フィー,sound_word_204.mp3,11
+205,midnight rental charge,深夜手数料,ミッドナイト レンタル チャージ,sound_word_205.mp3,11
+206,local island fee,島部料金,ローカル アイランド フィー,sound_word_206.mp3,11
+207,accounting statement,計算書,アカウンティング ステートメント,sound_word_207.mp3,12
+208,cash,現金払い,キャッシュ,sound_word_208.mp3,12
+209,credit slip,クレジット伝票,クレジット スリップ,sound_word_209.mp3,12
+210,coin,硬貨、小銭,コイン,sound_word_210.mp3,12
+211,thousand,千,サウザンド,sound_word_211.mp3,12
+212,slip,伝票,スリップ,sound_word_212.mp3,12
+213,change,おつり,チェンジ,sound_word_213.mp3,12
+214,distance driven,走行距離,ディスタンス ドリブン,sound_word_214.mp3,12
+215,debit card,デビットカード,デビットカード,sound_word_215.mp3,12
+216,deposit receipt,預り証,デポジット レシート,sound_word_216.mp3,12
+217,drop off fee,乗捨て料金,ドロップオフ フィー,sound_word_217.mp3,12
+218,note,紙幣（イギリス英語）,ノート,sound_word_218.mp3,12
+219,non-installment,一括,ノン インストールメント,sound_word_219.mp3,12
+220,voucher,クーポン券,バウチャー,sound_word_220.mp3,12
+221,hundred,百,ハンドレッド,sound_word_221.mp3,12
+222,bill,紙幣（アメリカ英語）,ビル,sound_word_222.mp3,12
+223,pay in advance,先払い,ペイ イン アドバンス,sound_word_223.mp3,12
+224,pay by credit card,クレジットカード支払い,ペイ バイ クレディットカード,sound_word_224.mp3,12
+225,mileage card,マイレージカード,マイレージカード,sound_word_225.mp3,12
+226,million,百万,ミリオン,sound_word_226.mp3,12
+227,Union Pay,銀聯（ぎんれん）カード,ユニオンペイ,sound_word_227.mp3,12
+228,reissue,再発行する,リイシュー,sound_word_228.mp3,12
+229,refund,返金する,リファンド,sound_word_229.mp3,12
+230,receipt,領収証,レシート,sound_word_230.mp3,12
+231,register,登録,レジスター,sound_word_231.mp3,12
+232,idling stop system,アイドリングストップ機能,アイドリング ストップ システム,sound_word_232.mp3,13
+233,angle,角度,アングル,sound_word_233.mp3,13
+234,ETC equipment,ＥＴＣ車載器,イーティーシー イクウィップメント,sound_word_234.mp3,13
+235,insert,差し込む,インサート,sound_word_235.mp3,13
+236,intelligent key,インテリジェントキー,インテリジェントキー,sound_word_236.mp3,13
+237,exterior,外装,エクステリア,sound_word_237.mp3,13
+238,emergency braking system,エマージェンシーブレーキ機能,エマージェンシー ブレーキング システム,sound_word_238.mp3,13
+239,electric vehicle,電気自動車,エレクトリック ビークル,sound_word_239.mp3,13
+240,empty,空の,エンプティ,sound_word_240.mp3,13
+241,automatic car,オートマチック車,オートマチック カー,sound_word_241.mp3,13
+242,car model,車両型式,カー モデル,sound_word_242.mp3,13
+243,casualty rate,死傷率,カジュアルティー レート,sound_word_243.mp3,13
+244,country code,国番号,カントリー コード,sound_word_244.mp3,13
+245,keyless entry system,キーレスエントリーシステム,キーレスエントリーシステム,sound_word_245.mp3,13
+246,cleaning,清掃,クリーニング,sound_word_246.mp3,13
+247,cruise control system,クルーズコントロール機能,クルーズコントロールシステム,sound_word_247.mp3,13
+248,get in,乗り込む,ゲット イン,sound_word_248.mp3,13
+249,convertible,オープンカー,コンバーティブル,sound_word_249.mp3,13
+250,scratch,車両のキズ,スクラッチ,sound_word_250.mp3,13
+251,staff,スタッフ,スタッフ,sound_word_251.mp3,13
+252,step on,踏む,ステップ オン,sound_word_252.mp3,13
+253,small,小さい,スモール,sound_word_253.mp3,13
+254,diesel vehicle,ディーゼル車,ディーゼル ビークル,sound_word_254.mp3,14
+255,dent,へこみ,デント,sound_word_255.mp3,14
+256,driving lane,走行車線,ドライビング レーン,sound_word_256.mp3,14
+257,hybrid car,ハイブリッド車,ハイブリッド カー,sound_word_257.mp3,14
+258,big,大きい,ビッグ,sound_word_258.mp3,14
+259,fasten,（シートベルトなどを）締める,ファストゥン,sound_word_259.mp3,14
+260,function,機能,ファンクション,sound_word_260.mp3,14
+261,fill up,満タンにする,フィルアップ,sound_word_261.mp3,14
+262,fuel,燃料,フューエル,sound_word_262.mp3,14
+263,pull,引く,プル,sound_word_263.mp3,14
+264,premium,ハイオク,プリミアム,sound_word_264.mp3,14
+265,manual transmission,マニュアル車,マニュアル トランスミッション,sound_word_265.mp3,14
+266,right,右,ライト,sound_word_266.mp3,14
+267,light oil,軽油,ライトオイル,sound_word_267.mp3,14
+268,latest,最新の,レイテスト,sound_word_268.mp3,14
+269,lane departure warning system,車線逸脱警報機能,レーン ディパーチャー ワーニング システム,sound_word_269.mp3,14
+270,regular,レギュラーガソリン,レギュラー,sound_word_270.mp3,14
+271,recreational vehicle,ＲＶ車,レクリエーショナル ビークル,sound_word_271.mp3,14
+272,left,左,レフト,sound_word_272.mp3,14
+273,load,積み込む,ロード,sound_word_273.mp3,14
+274,warning light,警告灯,ワーニング ライト,sound_word_274.mp3,14
+275,accelerator,アクセル,アクセレレーター,sound_word_275.mp3,15
+276,windshield,フロントガラス,ウインドシールド,sound_word_276.mp3,15
+277,windshield wipers,ワイパー,ウインドシールド ワイパーズ,sound_word_277.mp3,15
+278,welfare vehicle,福祉車両,ウェルフェア ビークル,sound_word_278.mp3,15
+279,air conditioning,エアコン,エアー コンディショニング,sound_word_279.mp3,15
+280,air bag,エアバッグ,エアーバッグ,sound_word_280.mp3,15
+281,engine,エンジン,エンジン,sound_word_281.mp3,15
+282,oil gauge,オイルゲージ,オイルゲージ,sound_word_282.mp3,15
+283,gas tank,燃料タンク,ガスタンク,sound_word_283.mp3,15
+284,gearshift,変速装置、ギア,ギアシフト,sound_word_284.mp3,15
+285,side view mirror,サイドミラー,サイドビューミラー,sound_word_285.mp3,15
+286,seat belt,シートベルト,シートベルト,sound_word_286.mp3,15
+287,jack,ジャッキ,ジャッキ,sound_word_287.mp3,15
+288,steering wheel,ハンドル,ステアリング ウィール,sound_word_288.mp3,15
+289,stick shift,シフトレバー,スティック シフト,sound_word_289.mp3,15
+290,spare tire,スペアタイヤ,スペアタイヤ,sound_word_290.mp3,15
+291,turn signal,指示器,ターン シグナル,sound_word_291.mp3,15
+292,tire,タイヤ,タイヤ,sound_word_292.mp3,15
+293,dashboard,ダッシュボード,ダッシュボード,sound_word_293.mp3,15
+294,taillight,尾灯、テールランプ,テールライト,sound_word_294.mp3,15
+295,temperature gauge,温度計,テンパーチャー ゲージ,sound_word_295.mp3,15
+296,driver's seat,運転席,ドライバーズ シート,sound_word_296.mp3,16
+297,trunk,トランク,トランク,sound_word_297.mp3,16
+298,parking brake,サイドブレーキ,パーキングブレーキ,sound_word_298.mp3,16
+299,backseat,後部座席,バックシート,sound_word_299.mp3,16
+300,battery,バッテリー,バッテリー,sound_word_300.mp3,16
+301,hubcap,ホイールキャップ,ハブキャップ,sound_word_301.mp3,16
+302,bumper,バンパー,バンパー,sound_word_302.mp3,16
+303,heater,ヒーター,ヒーター,sound_word_303.mp3,16
+304,fill opening,給油口,フィル オープニング,sound_word_304.mp3,16
+305,hood,ボンネット,フッド,sound_word_305.mp3,16
+306,brake pedal,ブレーキペダル,ブレーキペダル,sound_word_306.mp3,16
+307,brake light,ブレーキライト,ブレーキライト,sound_word_307.mp3,16
+308,front seat,前部座席,フロントシート,sound_word_308.mp3,16
+309,headlight,ヘッドライト,ヘッドライト,sound_word_309.mp3,16
+310,horn,クラクション,ホーン,sound_word_310.mp3,16
+311,muffler,マフラー,マフラー,sound_word_311.mp3,16
+312,license plate,ナンバープレート,ライセンスプレート,sound_word_312.mp3,16
+313,rearview mirror,バックミラー,リアビューミラー,sound_word_313.mp3,16
+314,radiator,ラジエーター,レディエイター,sound_word_314.mp3,16
+315,radio,ラジオ,レディオ,sound_word_315.mp3,16
+316,ambulance,救急車,アンビュランス,sound_word_316.mp3,17
+317,injured,怪我をする,インジャード,sound_word_317.mp3,17
+318,intersection,交差点,インターセクション,sound_word_318.mp3,17
+319,information,情報,インフォメーション,sound_word_319.mp3,17
+320,witness,目撃者,ウィットネス,sound_word_320.mp3,17
+321,emergency number,緊急電話番号,エマージェンシー ナンバー,sound_word_321.mp3,17
+322,alternative car,代替車,オルタナティブ カー,sound_word_322.mp3,17
+323,car accident,自動車事故,カー アクシデント,sound_word_323.mp3,17
+324,crash,ぶつかる,クラッシュ,sound_word_324.mp3,17
+325,contact,連絡する,コンタクト,sound_word_325.mp3,17
+326,Japanese,日本人,ジャパニーズ,sound_word_326.mp3,17
+327,single vehicle accident,車両単独事故,シングル ビークル アクシデント,sound_word_327.mp3,17
+328,damage,傷,ダメージ,sound_word_328.mp3,17
+329,describe,描写する,ディスクライブ,sound_word_329.mp3,17
+330,toll-free,通話料無料,トール フリー,sound_word_330.mp3,17
+331,parking lot,駐車場,パーキングロット,sound_word_331.mp3,17
+332,bicycle,自転車,バイシクル,sound_word_332.mp3,17
+333,public transportation,公共交通機関,パブリック トランスポーテーション,sound_word_333.mp3,17
+334,fire station,消防署,ファイヤー ステーション,sound_word_334.mp3,17
+335,pedestrian,歩行者,ペデストリアン,sound_word_335.mp3,17
+336,hospital,病院,ホスピタル,sound_word_336.mp3,17
+337,police,警察,ポリス,sound_word_337.mp3,17
+338,policeman,警官,ポリスマン,sound_word_338.mp3,17
+339,motorbike,二輪,モーターバイク,sound_word_339.mp3,17
+340,repair,修理,リペア,sound_word_340.mp3,17
+341,repair shop,修理工場,リペア ショップ,sound_word_341.mp3,17
+342,responsibility,責任,レスポンスビリティ,sound_word_342.mp3,17
+343,What to Do After Accident,もしも事故がおこったら,ワット トゥドゥ アフター アクシデント,sound_word_343.mp3,17
+344,available,利用できる,アヴェイラブル,sound_word_344.mp3,18
+345,accommodation,宿泊施設,アコモデイション,sound_word_345.mp3,18
+346,yesterday,昨日,イエスタデイ,sound_word_346.mp3,18
+347,exit,出口,イグジット,sound_word_347.mp3,18
+348,interpretation,通訳,インタープリテーション,sound_word_348.mp3,18
+349,entrance,入り口,エントランス,sound_word_349.mp3,18
+350,opening time,開店時間,オープニングタイム,sound_word_350.mp3,18
+351,carriage forward,着払い,キャリッジ フォワード,sound_word_351.mp3,18
+352,question,質問,クエスチョン,sound_word_352.mp3,18
+353,closing time,閉店時間,クロージングタイム,sound_word_353.mp3,18
+354,connect,接続する,コネクト,sound_word_354.mp3,18
+355,the day after tomorrow,明後日,ザ デイ アフター トゥモロー,sound_word_355.mp3,18
+356,dangerous,危険な,デンジャラス,sound_word_356.mp3,18
+357,today,今日,トゥデイ,sound_word_357.mp3,18
+358,tomorrow,明日,トゥモロー,sound_word_358.mp3,18
+359,previous day,前日,プリビアス デイ,sound_word_359.mp3,18
+360,borrow,借りる,ボロー,sound_word_360.mp3,18
+361,manager,店長、責任者,マネジャー,sound_word_361.mp3,18
+362,luggage,荷物,ラゲッジ,sound_word_362.mp3,18
+363,language,言語、言葉,ラングエッジ,sound_word_363.mp3,18
+364,listen,聞く,リッスン,sound_word_364.mp3,18
+365,umbrella,傘,アンブレラ,sound_word_365.mp3,19
+366,weather,天気,ウェザー,sound_word_366.mp3,19
+367,airport,空港,エアポート,sound_word_367.mp3,19
+368,cash machine,ＡＴＭ,キャッシュ マシーン,sound_word_368.mp3,19
+369,cloudy,曇り,クラウディー,sound_word_369.mp3,19
+370,convenience store,コンビニ,コンビニエンス ストア,sound_word_370.mp3,19
+371,sunny,晴れ,サニー,sound_word_371.mp3,19
+372,subway,地下鉄,サブウェイ,sound_word_372.mp3,19
+373,Japan heritage,日本遺産,ジャパン ヘリテージ,sound_word_373.mp3,19
+374,station,駅,ステーション,sound_word_374.mp3,19
+375,streetcar,路面電車,ストリートカー,sound_word_375.mp3,19
+376,train,電車,トレイン,sound_word_376.mp3,19
+377,bound for Tokyo,東京行きである,バウンド フォー トーキョー,sound_word_377.mp3,19
+378,famous,有名な,フェイマス,sound_word_378.mp3,19
+379,ferry,フェリー,フェリー,sound_word_379.mp3,19
+380,flight,フライト、航空便,フライト,sound_word_380.mp3,19
+381,post office,郵便局,ポストオフィス,sound_word_381.mp3,19
+382,line,路線,ライン,sound_word_382.mp3,19
+383,lake,湖,レイク,sound_word_383.mp3,19
+384,rainy,雨,レイニー,sound_word_384.mp3,19
+385,restroom,トイレ,レストルーム,sound_word_385.mp3,19
+386,loadside station,道の駅,ロードサイド ステーション,sound_word_386.mp3,19
+387,world heritage site,世界遺産,ワールド ヘリテージ サイト,sound_word_387.mp3,19
+388,It takes　three　minutes,３分かかります,イット テイクス スリー ミニッツ,sound_word_388.mp3,20
+389,Could you say it again?,もう一度言っていただけますか？,クッジュー セイ イット アゲイン？,sound_word_389.mp3,20
+390,Could you say it more simply?,もっと簡単に言っていただけますか？,クッジュー セイ イット モア シンプリー？,sound_word_390.mp3,20
+391,Could you say it more slowly?,もっとゆっくり話していただけますか？,クッジュー セイ イット モア スローリー？,sound_word_391.mp3,20
+392,Good afternoon,こんにちは,グッドアフタヌーン,sound_word_392.mp3,20
+393,Good evening,こんばんは,グッドイブニング,sound_word_393.mp3,20
+394,Good morning,おはようございます,グッドモーニング,sound_word_394.mp3,20
+395,Certainly,かしこまりました,サートゥンリー,sound_word_395.mp3,20
+396,Just a moment.,少々お待ちください,ジャスト ア モーメント,sound_word_396.mp3,20
+397,"This way, please",こちらへどうぞ,ディスウェイ プリーズ,sound_word_397.mp3,20
+398,Have a nice day.,素敵な一日をお過ごしください,ハブ ア ナイス デイ,sound_word_398.mp3,20
+399,Have you got everything?,忘れ物はありませんか？,ハブ ユー ゴット エブリシィング？,sound_word_399.mp3,20
+400,Please have a seat.,座ってお待ちください,プリーズ ハブ ア シート,sound_word_400.mp3,20

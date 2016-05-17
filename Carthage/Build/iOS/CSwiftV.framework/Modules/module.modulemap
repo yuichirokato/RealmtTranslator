@@ -1,0 +1,3 @@
+framework module CSwiftV {
+    header "CSwiftV-Swift.h"
+}
